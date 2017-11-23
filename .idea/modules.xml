@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/maven-springboot/maven-springboot.iml" filepath="$PROJECT_DIR$/maven-springboot/maven-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-springboot/rabbitmq-springboot.iml" filepath="$PROJECT_DIR$/rabbitmq-springboot/rabbitmq-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-thymeleaf/springboot-thymeleaf.iml" filepath="$PROJECT_DIR$/springboot-thymeleaf/springboot-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thymeleaf-springboot/thymeleaf-springboot.iml" filepath="$PROJECT_DIR$/thymeleaf-springboot/thymeleaf-springboot.iml" />
+    </modules>
+  </component>
+</project>
